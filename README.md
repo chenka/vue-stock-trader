@@ -1,6 +1,6 @@
-# vue-cli
+# Stock Trader
 
-> A Vue.js project
+Made by Vue and Vuex
 
 ## Build Setup
 
