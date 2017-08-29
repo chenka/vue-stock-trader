@@ -1,6 +1,6 @@
 # Stock Trader
 
-Made by Vue and Vuex
+Made by Vue and Vuex. Can save data to Firebase.
 
 ## Build Setup
 
