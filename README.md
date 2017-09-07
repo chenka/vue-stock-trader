@@ -2,6 +2,7 @@
 
 # Stock Trader
 
+https://chenka.github.io/vue-stock-trader/
 Made by Vue and Vuex. Can save data to Firebase.
 
 ## Build Setup
